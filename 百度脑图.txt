@@ -1,0 +1,6 @@
+飞机大战实现思路（代码解释）：
+http://naotu.baidu.com/file/070bd4dfa19bc21782d3cd89ce4319d5?token=a5a43f98462c647a
+
+
+飞机大战创作过程笔记：
+http://naotu.baidu.com/file/80f4afb93adbc4630fcc3ac6487a394a?token=dd3a5c6b09e9a701
